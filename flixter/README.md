@@ -11,4 +11,4 @@ Note:  This app uses devise and carrierwave.  Carrierwave can be configured for 
 
 # What this app is.
 
-A demo app allowing a teacher to create a lesson plan and courses, and for students to be able to see the courses.
+A demo app allowing a teacher to create a lesson plan and courses, upload images, login, and for students to be able to see the courses that they sign up for.

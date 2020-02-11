@@ -25,3 +25,9 @@
 
 # Ignore .env file
 .env
+
+# Ignore upload folders
+public/uploads/**
+
+# Don't ignore any .keep files
+!*.keep
