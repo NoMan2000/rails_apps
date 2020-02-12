@@ -1,3 +1,5 @@
-# List of Apps demo'd
+# List of demo apps
 
-- [https://flixter-rails-app.herokuapp.com/](Flixter App)
+- [Flixter App](https://flixter-rails-app.herokuapp.com/)
+- [Grammable App](https://grammable-rails-app.herokuapp.com/)
+- [Nomster App](https://nomster-rails-app.herokuapp.com/ )

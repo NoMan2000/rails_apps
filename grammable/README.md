@@ -20,3 +20,5 @@ Form for posting a new image
 
 ![gramcomment](https://github.com/amyhenning/grammable/blob/master/app/assets/images/gramcomment.png?raw=true)
 Comments for each image can be submitted directly from the image feed
+
+Click to see the [Demo App](https://grammable-rails-app.herokuapp.com/)

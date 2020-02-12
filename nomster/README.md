@@ -31,3 +31,5 @@ User dashboard view of photos submitted
 
 ![myplaces](https://github.com/amyhenning/nomster/blob/master/app/assets/images/myplaces.png?raw=true)
 User dashboard view of places added to the app
+
+The [Nomster App](https://nomster-rails-app.herokuapp.com/ )
